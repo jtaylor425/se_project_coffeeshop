@@ -266,7 +266,11 @@
 
 .form__input_type_datetime-local {
   padding-left: 8px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
   font-size: 20px;
+  line-height: 30px;
 }
 
 .form__input::placeholder {
