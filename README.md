@@ -14,3 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+![Alt Text](https://tenor.com/view/hot-coffee-heure-cafe-jaime-le-café-coffee-break-pause-cafe-gif-27441149.gif)
