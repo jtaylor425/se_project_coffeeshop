@@ -3,10 +3,12 @@
   background-image: url(../images/background_reservation.svg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
   padding-top: 100px;
+  position: relative;
 }
 
 .reservation__title {
@@ -22,12 +24,12 @@
 
 .form {
   display: flex;
-  box-sizing: border-box;
   max-width: 385px;
+  padding-bottom: 120px;
 }
 
 .reservation__form {
-  margin: 0 auto 120px;
+  margin: 0 auto;
 }
 
 .form__fieldset {
@@ -53,7 +55,8 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  margin-bottom: 0;
+  padding-bottom: 10px;
+  margin: 0;
 }
 
 .form__input {
@@ -103,13 +106,7 @@
 
 .form__button:hover {
   opacity: 70%;
-  transition: smooth;
-}
-
-.form__checkbox_containers {
-  display: flex;
-  gap: 12px;
-  justify-content: center;
+  transition: color 0.3s ease-in-out;
 }
 
 .form__checkbox {
@@ -117,6 +114,7 @@
   height: 20px;
   width: 20px;
   padding-right: 12px;
+  transition: color 0.3s ease-in-out;
 }
 
 .form__label_terms {

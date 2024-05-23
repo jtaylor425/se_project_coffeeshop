@@ -1,6 +1,7 @@
 .nav {
   display: flex;
   justify-content: space-between;
+  padding-right: 80px;
 }
 
 .nav__logo {
@@ -26,6 +27,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  transition: color 0.3s ease-in-out;
 }
 
 .nav__link:hover {

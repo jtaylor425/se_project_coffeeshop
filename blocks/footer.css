@@ -27,9 +27,6 @@
   line-height: 20px;
 }
 
-.footer__list {
-}
-
 .footer__list-item {
   list-style-type: none;
 }
@@ -53,11 +50,9 @@
   padding-right: 10px;
 }
 
-.footer__social-link {
-}
-
 .footer__social-link:hover {
   color: #c1c1c1;
+  transition: color 0.3s ease-in-out;
 }
 
 .footer__copyright {
