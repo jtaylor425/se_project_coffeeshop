@@ -13,6 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add your ideas here :
 
-![Alt Text](https://tenor.com/view/hot-coffee-heure-cafe-jaime-le-café-coffee-break-pause-cafe-gif-27441149.gif)
+- There could be more styling effects for the inputs within the form block such as shading to give it more depth.
+- the website also needs to be more responsive to varying screen sizes. The elements will bunch up if the dev tools are used or the window size is changed.
