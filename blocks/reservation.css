@@ -1,0 +1,124 @@
+.reservation {
+  background-color: #d9e7ff;
+  background-image: url(../images/background_reservation.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-height: 720px;
+  max-height: 800px;
+  padding-top: 100px;
+}
+
+.reservation__title {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 80px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.form {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 385px;
+}
+
+.reservation__form {
+  margin: 0 auto 120px;
+}
+
+.form__fieldset {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  border: none;
+  width: 385px;
+}
+
+.form__label {
+  margin-bottom: 32px;
+  display: block;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.form__label_type_checkbox {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 0;
+}
+
+.form__input {
+  display: block;
+  border-radius: 4px;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  height: 60px;
+  margin-top: 8px;
+}
+
+.form__input_type_datetime-local {
+  padding-left: 8px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.form__input::placeholder {
+  padding-left: 8px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #838383;
+}
+
+.form__button {
+  border-radius: 4px;
+  background-color: #2f80ed;
+  color: white;
+  width: 100%;
+  height: 60px;
+  border: none;
+  padding: 0;
+  margin-bottom: 32px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.form__button:hover {
+  opacity: 70%;
+  transition: smooth;
+}
+
+.form__checkbox_containers {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.form__checkbox {
+  border-radius: 2px;
+  height: 20px;
+  width: 20px;
+  padding-right: 12px;
+}
+
+.form__label_terms {
+  padding: 0;
+}
