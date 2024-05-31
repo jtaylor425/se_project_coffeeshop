@@ -17,3 +17,6 @@ Add your ideas here :
 
 - There could be more styling effects for the inputs within the form block such as shading to give it more depth.
 - the website also needs to be more responsive to varying screen sizes. The elements will bunch up if the dev tools are used or the window size is changed.
+
+## Where to View
+- jtaylor425.github.io/se_project_coffeeshop/
