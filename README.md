@@ -19,4 +19,4 @@ Add your ideas here :
 - the website also needs to be more responsive to varying screen sizes. The elements will bunch up if the dev tools are used or the window size is changed.
 
 ## Where to View
--[se_project_coffeeshop](https://www.jtaylor425.github.io/se_project_coffeeshop/)
+- [se_project_coffeeshop](https://www.jtaylor425.github.io/se_project_coffeeshop/)
